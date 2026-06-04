@@ -1,12 +1,6 @@
-# Global Tracking
+# Deja Vu
 
-**Deja Vu** is your AI counterpart, running natively on your Mac. It learns how you write, work, and think — then acts autonomously on your behalf. **Forge** (EnvBuilder-MCP) is the developer infrastructure layer that powers remote compute provisioning through a custom MCP server.
-
----
-
-## Deja Vu
-
-Your personal AI that mirrors your digital identity and operates as an autonomous desktop agent.
+Your AI counterpart, running natively on your Mac. It learns how you write, work, and think — then acts autonomously on your behalf through computer use, browser control, MCP connectors (Google, Notion, Slack, Forge), and a voice profile built from your emails, tweets, and files. You stay in control of your data — keep everything in your own database with cloud sync so your counterpart moves seamlessly across devices, or use the hosted service to skip the integration hassle.
 
 ### How It Works
 
