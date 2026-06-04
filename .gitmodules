@@ -1,3 +1,3 @@
 [submodule "EnvBuilder-Mcp"]
 	path = EnvBuilder-Mcp
-	url = git@github-personalgit:/Nathan-T-Ray/EnvBuilder-MCP
+	url = https://github.com/Nathan-T-Ray/EnvBuilder-MCP
